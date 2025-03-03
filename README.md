@@ -1,6 +1,3 @@
-Here's the updated version of your **README** file with the requested sections removed:
-
----
 
 # Moodflix: Movie Application
 
@@ -42,6 +39,6 @@ If you're new to the tech stack or face any issues, don’t hesitate to join our
 
 ---
 
-Thanks for checking out **Moodflix**! Happy coding! 🎬👨‍💻
+Thanks for checking out **Moodflix**! 
 
 --- 
